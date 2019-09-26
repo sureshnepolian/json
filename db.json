@@ -1,46 +1,6 @@
 {
 	"ok": true,
 	"channels": [{
-			"id": "DMNKDDTDZ",
-			"created": 1567587426,
-			"is_ext_shared": true,
-			"is_private": true,
-			"is_im": true,
-			"is_mpim": false,
-			"is_deleted": false,
-			"is_archived": false
-		},
-		{
-			"id": "DMNJZGSUT",
-			"created": 1567586595,
-			"is_ext_shared": false,
-			"is_private": true,
-			"is_im": true,
-			"is_mpim": false,
-			"is_deleted": false,
-			"is_archived": false
-		},
-		{
-			"id": "GMHUTHMJ6",
-			"created": 1567141971,
-			"is_ext_shared": false,
-			"is_private": true,
-			"is_im": false,
-			"is_mpim": true,
-			"is_deleted": false,
-			"is_archived": false
-		},
-		{
-			"id": "GMHUBALQ3",
-			"created": 1567139560,
-			"is_ext_shared": false,
-			"is_private": true,
-			"is_im": false,
-			"is_mpim": false,
-			"is_deleted": false,
-			"is_archived": false
-		},
-		{
 			"id": "GMGNRPS8J",
 			"created": 1567070840,
 			"is_ext_shared": false,
