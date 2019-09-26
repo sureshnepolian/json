@@ -1,26 +1,6 @@
 {
 	"ok": true,
 	"channels": [{
-			"id": "DN1U91V3R",
-			"created": 1567586545,
-			"is_ext_shared": false,
-			"is_private": true,
-			"is_im": true,
-			"is_mpim": false,
-			"is_deleted": false,
-			"is_archived": false
-		},
-		{
-			"id": "GN0C334UV",
-			"created": 1567604357,
-			"is_ext_shared": false,
-			"is_private": true,
-			"is_im": false,
-			"is_mpim": false,
-			"is_deleted": false,
-			"is_archived": false
-		},
-		{
 			"id": "DN02X2Z4M",
 			"created": 1567586546,
 			"is_ext_shared": false,
