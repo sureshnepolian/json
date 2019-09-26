@@ -1,9 +1,12 @@
 {
-  "people": [
-    {
-      "id":0,
-      "name": "suresh"
-
-    }
-  ]
+	"channels": {
+		"id": "DN1U91V3R",
+		"created": 1567586545,
+		"is_ext_shared": false,
+		"is_private": true,
+		"is_im": true,
+		"is_mpim": false,
+		"is_deleted": false,
+		"is_archived": false
+	}
 }
